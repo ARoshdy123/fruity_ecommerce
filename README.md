@@ -1,4 +1,4 @@
-# blissed_ecommerce
+# fruity_ecommerce
 
 A new Flutter project.
 
